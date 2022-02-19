@@ -1,1 +1,1 @@
-export * from './lib/s3-helper';
+export {S3Helper} from './lib/s3-helper';
