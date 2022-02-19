@@ -1,1 +1,1 @@
-export * from './lib/template';
+export * from './lib/s3-helper';
