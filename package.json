@@ -1,5 +1,5 @@
 {
-  "name": "s3-helper",
+  "name": "@aws-cloud/s3-helper",
   "version": "0.0.1",
   "description": "",
   "main": "src/index.ts",
